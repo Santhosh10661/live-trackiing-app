@@ -20,6 +20,11 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyD9YkY7b1bX4K3F6Z8v3x5X9Jz0Q8gQWc"
+        }
+      },
       "edgeToEdgeEnabled": true,
       "package": "com.santhoshfwd.livetrackingapp"
     },
